@@ -1,0 +1,51 @@
+[
+  {
+    "name": "principle-laziness-protocol",
+    "repository": "cursor/plugins",
+    "commit": "2eb7ed4613cfc8f098dfe464a23680ea44d84c5e",
+    "path": "pstack/skills/principle-laziness-protocol",
+    "files": 1,
+    "modified": false
+  },
+  {
+    "name": "tdd",
+    "repository": "cursor/plugins",
+    "commit": "2eb7ed4613cfc8f098dfe464a23680ea44d84c5e",
+    "path": "pstack/skills/tdd",
+    "files": 1,
+    "modified": false
+  },
+  {
+    "name": "improve-claude-md",
+    "repository": "humanlayer/skills",
+    "commit": "ca7c8088db69e315a8b2deea43820270457f8f3c",
+    "path": "plugins/improve-claude-md/skills/improve-claude-md",
+    "files": 1,
+    "modified": false
+  },
+  {
+    "name": "emil-design-eng",
+    "repository": "emilkowalski/skills",
+    "commit": "d16ebe60d09a5ba2afcb7054ede9d0a10c9f6128",
+    "path": "skills/emil-design-eng",
+    "files": 1,
+    "modified": false
+  },
+  {
+    "name": "unslop",
+    "repository": "cursor/plugins",
+    "commit": "2eb7ed4613cfc8f098dfe464a23680ea44d84c5e",
+    "path": "pstack/skills/unslop",
+    "files": 1,
+    "modified": false
+  },
+  {
+    "name": "test-audit",
+    "repository": "openclaw/openclaw",
+    "commit": "ca17064696396cb0dcec6fe034b04fdce347c720",
+    "path": ".agents/skills/test-audit",
+    "files": 2,
+    "modified": true,
+    "changes": "Generic project tooling and campaign; explicit audit-only mode; sequential default; scope-aware review and landing."
+  }
+]
